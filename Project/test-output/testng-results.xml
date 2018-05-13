@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2022" started-at="2018-05-13T16:01:57Z" finished-at="2018-05-13T16:01:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2022" started-at="2018-05-13T16:01:57Z" finished-at="2018-05-13T16:01:59Z">
+      <class name="com.ubs.test.ExcelTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.ubs.test.ExcelTest@50c87b21]" name="test1" duration-ms="38" started-at="2018-05-13T21:31:57Z" finished-at="2018-05-13T21:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ubs.test.ExcelTest@50c87b21]" name="test1" duration-ms="9" started-at="2018-05-13T21:31:59Z" data-provider="myData" finished-at="2018-05-13T21:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginLasVegas1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UATACCOUNT1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Optix@121]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[http://xyz1.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ubs.test.ExcelTest@50c87b21]" name="test1" duration-ms="19" started-at="2018-05-13T21:31:59Z" data-provider="myData" finished-at="2018-05-13T21:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginLasVegas2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UATACCOUNT2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Optix@122]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[http://xyz2.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ubs.test.ExcelTest@50c87b21]" name="test1" duration-ms="19" started-at="2018-05-13T21:31:59Z" data-provider="myData" finished-at="2018-05-13T21:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginLasVegas3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UATACCOUNT3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Optix@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[http://xyz3.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ubs.test.ExcelTest@50c87b21]" name="test1" duration-ms="8" started-at="2018-05-13T21:31:59Z" data-provider="myData" finished-at="2018-05-13T21:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginLasVegas4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UATACCOUNT4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Optix@124]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[http://xyz4.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ubs.test.ExcelTest@50c87b21]" name="test1" duration-ms="25" started-at="2018-05-13T21:31:59Z" data-provider="myData" finished-at="2018-05-13T21:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginLasVegas5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UATACCOUNT5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Optix@125]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[http://xyz5.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ubs.test.ExcelTest@50c87b21]" name="test1" duration-ms="21" started-at="2018-05-13T21:31:59Z" data-provider="myData" finished-at="2018-05-13T21:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginLasVegas6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UATACCOUNT6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Optix@126]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[http://xyz6.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.ubs.test.ExcelTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
